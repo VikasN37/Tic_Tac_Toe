@@ -1,0 +1,12 @@
+button
+{
+     width: 100px;
+     height:100px;
+     font-size:40px;
+     font-weight: bold;
+
+     border :1px solid blue;
+     background-color: bisque;
+     box-sizing: border-box;
+     float: left;
+}

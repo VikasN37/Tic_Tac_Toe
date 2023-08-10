@@ -1,0 +1,34 @@
+.game
+{
+    
+     justify-content: center;
+     align-items: center;
+     vertical-align: bottom;
+    
+     border :2px solid;
+     box-sizing: border-box;
+}
+.row
+{
+   height: 100px;
+     box-sizing: border-box;
+  
+}
+p
+{
+     height: 30px;
+     font-size: 28px;
+     padding :5px;
+     font-weight: bold;
+     border :3px solid green;
+     margin :4px;
+     
+}
+.restart-button
+{
+     height: 50px;
+     width :180px;
+     background-color: lightgreen;
+     font-size: 18px;
+     margin :5px;
+}
